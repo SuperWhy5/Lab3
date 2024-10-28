@@ -44,7 +44,7 @@ int main(){
             
         //Calculate Area of a Square
         case 2:
-            cout << "Length of the square: ";
+            cout << "Length of the square: "; "hi"
             cin >> measure;
             square.setSide(measure);
 
